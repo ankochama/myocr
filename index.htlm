@@ -1,2 +1,13 @@
 <h1>MyOCR</h1>
+
 <p>画像からテキストを抽出するOCRアプリです。</p>
+
+<h2>機能</h2>
+<ul>
+  <li>画像から文字を抽出</li>
+  <li>Google Driveと連携</li>
+</ul>
+
+<p>
+<a href="privacy.html">プライバシーポリシー</a>
+</p>
