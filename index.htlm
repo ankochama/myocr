@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>MyOCR</title>
+</head>
+<body>
+
 <h1>MyOCR</h1>
 
 <p>画像からテキストを抽出するOCRアプリです。</p>
@@ -9,5 +17,8 @@
 </ul>
 
 <p>
-<a href="privacy.html">プライバシーポリシー</a>
+  <a href="privacy.html">プライバシーポリシー</a>
 </p>
+
+</body>
+</html>
